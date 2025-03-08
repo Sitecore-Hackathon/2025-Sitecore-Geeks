@@ -9,60 +9,51 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+⟹ Sitecore-Geeks
 
 ## Category
-⟹ Write the name of the selected category
+⟹ N/A.
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
+⟹ Integration Idea: Created a support chatbot that integrates with 
+Sitecore Hackathon website to provide immediate answers to queries.
+How to Integrate: The Content of the website is crawled and the output is in queries.json. 
+This file is integreated via the NextJS Application and the Conversational Chatbot is created.
+Benefit: A self-service application where the Content can be from any site and the application can be integrated as any Link into head apps.
 
-  - Module Purpose
+
+  - Module Purpose -
+    The purpose of this module is to create a self-service conversational chatbot that can be easily integrated with any website, such as the Sitecore Hackathon website. By crawling the content of the website and storing it in a queries.json file, the module enables the chatbot to provide immediate answers to user queries. The chatbot can be easily embedded into other applications or platforms, offering users an interactive and efficient way to access website content without needing to manually search for information.
+
+
   - What problem was solved (if any)
-    - How does this module solve it
+     The problem this module addresses is the difficulty users often face in finding specific information quickly on websites, especially when there's a large amount of content. Without an intuitive way to search or interact with the website, users may struggle to find answers to their queries or navigate the content efficiently.
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+    - How does this module solve it
+       This can be widely used where there is no search functionality integrated such as Sitecore Hackathon website.
+
+
+
+_You can alternately paste a [C:\hack\sitecoregeeks\src\sitecorehackathon-chatbot\public\Sitecore Hackathon 2025.docx](#docs)) to a document within this repo containing the description._
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ [Replace this Video link](#video-link)
+⟹ [C:\hack\sitecoregeeks\src\sitecorehackathon-chatbot\public\Sitecore-Geeks-Video.mp4](#video-link)
 
 ## Pre-requisites and Dependencies
 
 ⟹ Does your module rely on other Sitecore modules or frameworks?
 
 - List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+- No.
 
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.  
-
-> _A simple well-described installation process is required to win the Hackathon._  
-> Feel free to use any of the following tools/formats as part of the installation:
-> - Sitecore Package files
-> - Docker image builds
-> - Sitecore CLI
-> - msbuild
-> - npm / yarn
-> 
-> _Do not use_
-> - TDS
-> - Unicorn
+⟹ To run the repo, navigate to the Path and use the commmand npm run dev to run in localhost.
  
-for example:
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ...
-3. profit
-
-### Configuration
-⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
-
-_Remove this subsection if your entry does not require any configuration that is not fully covered in the installation instructions already_
 
 ## Usage instructions
 ⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
