@@ -33,13 +33,14 @@ Benefit: A self-service application where the Content can be from any site and t
        This can be widely used where there is no search functionality integrated such as Sitecore Hackathon website.
 
 
-
-_You can alternately paste a C:\hack\sitecoregeeks\src\sitecorehackathon-chatbot\public\Sitecore Hackathon 2025.docx to a document within this repo containing the description._
+documentation path:
+  docs\images\Sitecore Hackathon 2025.docx
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ C:\hack\sitecoregeeks\src\sitecorehackathon-chatbot\public\Sitecore-Geeks-Video.mp4
+ Video link path:
+ 
+docs\images\Sitecore-Geeks-Video.mp4
 
 ## Pre-requisites and Dependencies
 
