@@ -36,7 +36,7 @@ Benefit: A self-service application where the Content can be from any site and t
 documentation path:
   docs\images\Sitecore Hackathon 2025.docx
 
-![Document](docs/images/Sitecore%20Hackathon%202025.docx)
+[Document](docs/images/Sitecore%20Hackathon%202025.docx)
 
 ## Video link
 
@@ -45,7 +45,7 @@ documentation path:
 docs\images\Sitecore-Geeks-Video.mp4
 
 
-![Video Link](docs/images/Sitecore-Geeks-Video.mp4)
+[Video Link](docs/images/Sitecore-Geeks-Video.mp4)
 
 
 ## Pre-requisites and Dependencies
