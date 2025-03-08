@@ -1,0 +1,258 @@
+[
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "faqs": [
+        {
+          "question": "I am a Team of One. Can I participate?",
+          "answer": "Yes, you can get paired with others in a similar situation by contacting the organizer."
+        },
+        {
+          "question": "Do we have to work for the entire 24 hours?",
+          "answer": "No, you can schedule your time and work as much or as little as needed."
+        },
+        {
+          "question": "Can I team up with someone from another organization?",
+          "answer": "Yes, you can team up with any Sitecore developer to form a team."
+        },
+        {
+          "question": "How many members are allowed in a team?",
+          "answer": "A maximum of 3 members per team."
+        },
+        {
+          "question": "What are the deliverables for the Hackathon?",
+          "answer": "Submissions must include clean code, proper documentation, a YouTube demo video, and installation instructions."
+        },
+        {
+          "question": "What should the YouTube demo video include?",
+          "answer": "The purpose, setup instructions, and how to use the project."
+        },
+        {
+          "question": "What are the judging criteria?",
+          "answer": "Code cleanliness, adherence to Sitecore best practices, proper documentation, and creativity."
+        },
+        {
+          "question": "Is there an age restriction for participation?",
+          "answer": "Yes, participants must be 21 years or older."
+        },
+        {
+          "question": "Is there a participation fee?",
+          "answer": "No, the Hackathon is free to participate."
+        },
+        {
+          "question": "What are the prizes for the winners?",
+          "answer": "Winners receive a $150 Amazon gift card per team member."
+        },
+        {
+          "question": "What happens if Amazon gift cards are unavailable in my region?",
+          "answer": "Alternate prize arrangements will be made."
+        },
+        {
+          "question": "What are common Hackathon themes?",
+          "answer": "AI integration, SXA enhancements, XM Cloud modules, and simplifying XP migrations."
+        },
+        {
+          "question": "How long is the Hackathon event?",
+          "answer": "The event lasts 24 hours."
+        },
+        {
+          "question": "What if the judges cannot run my submission?",
+          "answer": "The submission will not be counted as complete if proper documentation is missing or the project cannot run."
+        },
+        {
+          "question": "What tools can I use to prepare my Sitecore setup?",
+          "answer": "You can use Docker, SIF/SIA, Sifon, or any method you are comfortable with."
+        },
+        {
+          "question": "Who won the 'Best use of AI' in 2024?",
+          "answer": "Team 451 Unavailable For Legal Reasons."
+        },
+        {
+          "question": "Who won the 'Best Module for XM/XP or XM Cloud' in 2024?",
+          "answer": "Cloud Surfers."
+        },
+        {
+          "question": "Can I participate without Sitecore experience?",
+          "answer": "Yes, but prior Sitecore experience will help in completing the module successfully."
+        },
+        
+       
+        {
+          "question": "What happens if I don’t finish on time?",
+          "answer": "Incomplete submissions will not be eligible for judging."
+        },
+        {
+          "question": "What are Sitecore's best practices?",
+          "answer": "Adhere to Helix principles, maintain clean code, and provide proper documentation."
+        },
+        {
+          "question": "What was Team 451's winning focus in 2024?",
+          "answer": "Best use of AI in Sitecore implementations."
+        },
+        {
+          "question": "What did Cloud Surfers' module focus on in 2024?",
+          "answer": "Improving integration and functionality for XM and XP systems."
+        },
+       
+       {"question":"total teams",
+      "answer": "Total teams - 784 teams"},
+    
+        {
+          "question": "How will winners be recognized?",
+          "answer": "Their team logos and photos will be showcased on the Hackathon website."
+        },
+        {
+          "question": "Winners of 2015",
+          "answer": "Team Uniques in Best Development Experience Module, Team Bazinga! In Best Sitecore Integration Module, Team Admin/b in Best Business User Experience Module"
+        },
+        
+        {
+          "question": "Winners of 2016?",
+          "answer": "Team Uniques in Best Third Party Integration Module, Team Red Staffy in Best Habitat Feature Module"
+        },
+        {
+          "question": "Winners of 2017?",
+          "answer": "SapeAztec in Azure PaaS Module, No Weekend 4 us in Sitecore Experience Accelerator, O161 in Habitat Module, Go Horse in Data Exchange Framework"
+        },
+        {
+          "question": "Winners of 2018?",
+          "answer": "Las Vegans in xConnect Module, Santa’s Little Helper in Sitecore Experience Accelerator, Mashed Potatoes in Commerce Module, Powerful Ways in JavaScript Services Module"
+        },
+        {
+          "question": "Winners of 2019?",
+          "answer": "Go Horse in xConnect Module, Team Noesis in Sitecore Experience Accelerator, The A-team Defenders of GOTO in Sitecore PowerShell Extensions, Sitecorps in JavaScript Services Module, Palinka in Admin UI Module"
+        },
+        {
+          "question": "Winners of 2020?",
+          "answer": "1st Prize Winner – XTeam, 2nd Prize Winner – KATSU!, 3rd Prize Winner – Already Tired"
+        },
+        {
+          "question": "Winners of 2021?",
+          "answer": "The best enhancement to the Sitecore Admin (XP) for Content Editors & Marketers – Team-Palinka-Another-Shot, The best enhancement to SXA – Alpha-Centauri, Best use of SPE to help Content authors and Marketers – BLAMstack, Best use of Headless using JSS or .NET – Anonymous-Sitecoreholics"
+        },
+        {
+          "question": "Winners of 2022?",
+          "answer": "E-Commerce – HardcoreSitecore, Web3 – Extend CLI, NameTooLongException – Extend MVP Site"
+        },
+        {
+          "question": "Winners of 2023?",
+          "answer": "Best enhancement to SXA Headless – Ererenderingdering, Best Enhancement to XM Cloud – Team-NotImplementedException, Best Migration Module to move from XP to XM Cloud/Content Hub One/Headless CMS – Extend MVP Site – Soar with Sitecore"
+        },
+        {
+          "question": "Winners of 2024?",
+          "answer": "Best use of AI – Team 451 Unavailable For Legal Reasons, Best Module for XM/XP or XM Cloud – Cloud Surfers"
+        },
+       
+        {
+          "question": "Winners of 2015?",
+          "answer": "Team Uniques – Best Development Experience Module, Sitecore PackMan – Marketplace, Team Bazinga! – Best Sitecore Integration Module, Team Admin/b – Best Business User Experience Module"
+        },
+        {
+          "question": "Winners of 2016?",
+          "answer": "Best Third Party Integration Module – Team Uniques, Best Habitat Feature Module – Team Red Staffy"
+        },
+        {
+          "question": "Winners of 2017?",
+          "answer": "Azure PaaS Module – SapeAztec, Sitecore Experience Accelerator (SXA) – No Weekend 4 us, Habitat Module – O161, Data Exchange Framework – Go Horse"
+        },
+        {
+          "question": "Winners of 2018?",
+          "answer": "xConnect Module – Las Vegans, Sitecore Experience Accelerator (SXA) – Santa’s Little Helper, Commerce Module – Mashed Potatoes, JavaScript Services (JSS) Module – Powerful Ways"
+        },
+        {
+          "question": "Winners of 2019?",
+          "answer": "Go Horse - Module on  Sitecore Experience Accelerator (SXA) – Team Noesis, Sitecore PowerShell Extensions (SPE) – The A-team Defenders of GOTO, JavaScript Services (JSS) Module – Sitecorps, Admin UI Module – Palinka"
+        },
+        {
+          "question": "Winners of 2020?",
+          "answer": "1st Prize – XTeam, 2nd Prize – KATSU!, 3rd Prize – Already Tired"
+        },
+        {
+          "question": "Winners of 2021?",
+          "answer": "Best enhancement to the Sitecore Admin (XP) – Team-Palinka-Another-Shot, Best enhancement to SXA – Alpha-Centauri, Best use of SPE – BLAMstack, Best use of Headless using JSS or .NET – Anonymous-Sitecoreholics"
+        },
+        {
+          "question": "Winners of 2022?",
+          "answer": "E-Commerce – HardcoreSitecore, Web3 – Extend CLI, NameTooLongException – Extend MVP Site"
+        },
+        {
+          "question": "Winners of 2023?",
+          "answer": "Best enhancement to SXA Headless – Ererenderingdering, Best Enhancement to XM Cloud – Team-NotImplementedException, Best Migration Module to move from XP to XM Cloud/Content Hub One/Headless CMS – Extend MVP Site – Soar with Sitecore"
+        },
+        {
+          "question": "Number of teams participated in 2024?",
+          "answer": "42 teams participated in the Hackathon in 2024."
+        },
+        {
+          "question": "Number of teams participated in 2023?",
+          "answer": "91 teams participated in the Hackathon in 2023."
+        },
+        {
+          "question": "Number of teams participated in 2016?",
+          "answer": "48 teams participated in the Hackathon in 2016."
+        },
+        {
+          "question": "Number of teams participated in 2017?",
+          "answer": "57 teams participated in the Hackathon in 2017."
+        },
+        {
+          "question": "Number of teams participated in 2018?",
+          "answer": "74 teams participated in the Hackathon in 2018."
+        },
+        {
+          "question": "Number of teams participated in 2019?",
+          "answer": "97 teams participated in the Hackathon in 2019."
+        },
+        {
+          "question": "Number of teams participated in 2020?",
+          "answer": "82 teams participated in the Hackathon in 2020."
+        },
+        {
+          "question": "Number of teams participated in 2021?",
+          "answer": "95 teams participated in the Hackathon in 2021."
+        },
+        {
+          "question": "Number of teams participated in 2022?",
+          "answer": "64 teams participated in the Hackathon in 2022."
+        },
+      
+        {
+          "question": "Number of teams participated in 2015?",
+          "answer": "47 teams participated in the Hackathon in 2015."
+        },
+        {
+          "question": "What is the objective of the Hackathon?",
+          "answer": "The objective of the Hackathon is to foster innovation, collaboration, and community engagement by challenging participants to build creative and functional Sitecore modules within 24 hours."
+        },
+        {
+          "question": "Who can participate in the Hackathon?",
+          "answer": "Anyone aged 21 years or older with an interest in Sitecore can participate in the Hackathon, including individuals or teams of up to three members from various organizations."
+        },
+        {
+          "question": "What is the process for participation?",
+          "answer": "To participate in the Hackathon, teams must register by the specified deadline. Once registered, teams will work within a 24-hour timeframe to build and submit their Sitecore modules based on the announced ideas. Submissions must include code, documentation, and a video demonstration shared via GitHub."
+        },
+        {
+          "question": "When will the results be declared?",
+          "answer": "The results of the Hackathon are typically declared a few weeks after the event, following a thorough evaluation of submissions by the judges."
+        },
+        {
+          "question": "What is the prize for each year?",
+          "answer": "The prize for each year typically includes a $150 Amazon gift card per winning team member. Alternate arrangements are made if Amazon gift cards are unavailable in the winner's region. Other benefits may include recognition on the Hackathon website and digital badges."
+        },
+        {
+          "question":"organizer of the event",
+          "answer" : "akshay sura"
+        },
+        {
+          "question":"who is the organizer of Hackathon",
+          "answer" : "akshay sura"
+        },
+        {
+          "question": "who is akshay sura",
+          "answer" : "Organizer"
+        }
+
+
+      ]
+    }
+  ]
