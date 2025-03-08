@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("C:/hack/sitecoregeeks/src/sitecorehackathon-chatbot/public/Sitecore-Hackathon-logo-new-large-own-it-2048x458.png");
+}
+/* Overall chatbot container */
+.chatbot {
+  width: 300px;
+  height: 400px;
+  background-color: #f4f4f9;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+/* Chatbot collapsed state */
+.chatbot.collapsed {
+  height: 50px; /* Collapse height */
+}
+
+/* Chat header */
+.chat-header {
+  background-color: #3b82f6;
+  padding: 8px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Close button styling */
+.close-btn {
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 0 8px;
+}
+
+/* Chat content area */
+.chat-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Chat history section */
+.chat-history {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100% - 60px); /* Reserve space for the input section */
+  padding-bottom: 10px; /* Ensure there's padding at the bottom */
+}
+
+/* User's and bot's messages */
+.chat-history .user,
+.chat-history .bot {
+  margin-bottom: 15px;
+  max-width: 80%;
+  padding: 8px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+/* User's messages */
+.chat-history .user {
+  align-self: flex-end;
+  background-color: #3b82f6;
+  color: white;
+}
+
+/* Bot's messages */
+.chat-history .bot {
+  align-self: flex-start;
+  background-color: #e5e7eb;
+  color: #333;
+}
+
+/* User input section */
+.user-input {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  background-color: #ffffff;
+  align-items: center;
+  height: 60px;
+  box-sizing: border-box; /* Ensure padding doesn't affect the height */
+}
+
+/* Input field and button styling */
+.user-input input,
+.user-input button {
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 8px;
+  outline: none;
+  box-sizing: border-box; /* Ensure padding doesn't affect the dimensions */
+}
+
+/* Input field specific styles */
+.user-input input {
+  flex: 1;
+  margin-right: 8px;
+  border: 1px solid #ccc;
+  height: 40px;
+}
+
+/* Button specific styles */
+.user-input button {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  cursor: pointer;
+  height: 40px;
+}
+
+.user-input button:hover {
+  background-color: #2563eb;
+}
