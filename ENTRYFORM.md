@@ -32,7 +32,7 @@ Benefit: A self-service application where the Content can be from any site and t
     - How does this module solve it
        This can be widely used where there is no search functionality integrated such as Sitecore Hackathon website.
 
-
+## Document link
 documentation path:
   docs\images\Sitecore Hackathon 2025.docx
 
