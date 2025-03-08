@@ -36,11 +36,17 @@ Benefit: A self-service application where the Content can be from any site and t
 documentation path:
   docs\images\Sitecore Hackathon 2025.docx
 
+![Document](docs/images/Sitecore%20Hackathon%202025.docx)
+
 ## Video link
 
  Video link path:
  
 docs\images\Sitecore-Geeks-Video.mp4
+
+
+![Video Link](docs/images/Sitecore-Geeks-Video.mp4)
+
 
 ## Pre-requisites and Dependencies
 
@@ -61,15 +67,10 @@ _Remove this subsection if your entry does not have any prerequisites other than
 
 Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
+![Hackathon Logo](docs/images/logo.png?raw=true "Hackathon Logo")
 
-You can embed images of different formats too:
 
-![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
 
-And you can embed external images too:
-
-![Random](https://thiscatdoesnotexist.com/)
 
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
